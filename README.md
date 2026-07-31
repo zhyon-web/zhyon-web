@@ -43,9 +43,6 @@ Cada projeto é desenvolvido de acordo com a identidade visual, os objetivos e a
 
 ## Projeto em destaque
 
-<div align="center">
-
-<img src="./assets/logo-caamano.png" alt="Logo da Caamano Advocacia" width="360">
 
 ### Caamano Advocacia
 
