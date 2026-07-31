@@ -76,7 +76,9 @@ O projeto foi estruturado para apresentar o escritório, suas áreas de atuaçã
 ### Tecnologias utilizadas
 
 - WordPress;
-- Elementor.
+- Elementor;
+- HTML5;
+- CSS3.
 
 <div align="center">
 
@@ -92,6 +94,8 @@ O projeto foi estruturado para apresentar o escritório, suas áreas de atuaçã
 
 ![WordPress](https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-111111?style=for-the-badge&logo=elementor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=CSS3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
