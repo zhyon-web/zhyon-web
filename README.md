@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo-zhyon.png" alt="Logo da Zhyon" width="280">
+<img src="./assets/logo-zhyon.png" alt="Logo da Zhyon" width="260">
 
 # ZHYON
 
@@ -45,7 +45,7 @@ Cada projeto é desenvolvido de acordo com a identidade visual, os objetivos e a
 
 <div align="center">
 
-<img src="./assets/logo-caamano.png" alt="Logo da Caamano Advocacia" width="340">
+<img src="./assets/logo-caamano.png" alt="Logo da Caamano Advocacia" width="360">
 
 ### Caamano Advocacia
 
